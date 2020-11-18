@@ -7,7 +7,7 @@ Le marché de la création en réalité virtuelle ne cesse de s’agrandir et le
 <center>
     <img src="https://i.jiveoff.fr/uxgot.png" style="width:15%; margin-right: 100px; vertical-align: middle;" />
     <img src="https://i.jiveoff.fr/wKpE8.tilt-brush-logo-02-ps4-23jan19-en-us" style="width:30%; margin-right: 100px; vertical-align: middle;" />
-    <img src="https://i.jiveoff.fr/wqWkt.PJQMq1gnq-JWlC-cgTwnhyJJWap01FEKfm_x5O0Ab0zgd_UdgjO5rrpYx3CMUUV01NLZDTnoM22aB41nYoBkyjA7Do4RUBredR-2IaSm4nhVJ0tRrMRRhAmRJWyWXDwFiOnAXtk" style="width:15%; vertical-align: middle;" />
+    <img src="https://i.jiveoff.fr/RIzTc.latest" style="width:15%; vertical-align: middle;" />
 </center>
 
 <center>
