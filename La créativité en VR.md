@@ -1,5 +1,3 @@
-# La créativité en VR
-
 Il est possible d’exprimer sa créativité en utilisant des logiciels sur ordinateur avec son clavier et sa souris (et potentiellement une tablette graphique !) mais nous allons parler ici de **réalité virtuelle**, car oui, il est possible de sculpter, dessiner en trois dimensions ou encore construire de petites maisons en blocs de terre (oui oui !) en réalité virtuelle.
 
 Le marché de la création en réalité virtuelle ne cesse de s’agrandir et les possibilités de même, nous allons donc parler dans cet article de trois célèbres applications:
