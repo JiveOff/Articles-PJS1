@@ -5,9 +5,9 @@ Il est possible d’exprimer sa créativité en utilisant des logiciels sur ordi
 Le marché de la création en réalité virtuelle ne cesse de s’agrandir et les possibilités de même, nous allons donc parler dans cet article de trois célèbres applications:
 
 <center>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Oculus_Medium_logo.png/330px-Oculus_Medium_logo.png" style="width:15%; margin-right: 100px;" />
-    <img src="https://media.playstation.com/is/image/SCEA/tilt-brush-logo-02-ps4-23jan19-en-us?$native_t$" style="width:15%; margin-right: 100px;" />
-    <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d3/Forest_Grass_Block.png/revision/latest/scale-to-width-down/150?cb=20190525094022" style="width:15%;" />
+    <img src="https://i.jiveoff.fr/uxgot.png" style="width:15%; margin-right: 100px; vertical-align: middle;" />
+    <img src="https://i.jiveoff.fr/wKpE8.tilt-brush-logo-02-ps4-23jan19-en-us" style="width:30%; margin-right: 100px; vertical-align: middle;" />
+    <img src="https://i.jiveoff.fr/wqWkt.PJQMq1gnq-JWlC-cgTwnhyJJWap01FEKfm_x5O0Ab0zgd_UdgjO5rrpYx3CMUUV01NLZDTnoM22aB41nYoBkyjA7Do4RUBredR-2IaSm4nhVJ0tRrMRRhAmRJWyWXDwFiOnAXtk" style="width:15%; vertical-align: middle;" />
 </center>
 
 <center>
