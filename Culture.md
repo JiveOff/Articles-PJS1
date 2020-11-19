@@ -5,7 +5,7 @@ II y a toujours eu chez les hommes, une volonté de retranscrire et de transmett
 
 Ce n’est qu’à partir du **XIXe siècle** que la *photographie* fut inventée, ne demandant aucune compétence artistique et beaucoup moins fastidieuse que la peinture, elle permet à n’importe qui de « capturer le temps ». Les photos mises bout à bout donnent naissance à la *vidéo*.
 
-C’est à partir de là et de toutes les avancées en optique et en électronique que l’homme décide de créer un espace retranscrivant totalement l’**espace et le **temps**, la **réalité virtuelle**.
+C’est à partir de là et de toutes les avancées en optique et en électronique que l’homme décide de créer un espace retranscrivant totalement l’**espace** et le **temps**, la **réalité virtuelle**.
 
 
 ## la culture de la VR
