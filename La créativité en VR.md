@@ -34,7 +34,7 @@ Il est alors possible de laisser place à sa propre imagination pour ainsi conce
 Il est également possible de modéliser vos personnages d'animés préférés très simplement:
 
 <div style="text-align: center; margin-bottom: 35px;">
-    <iframe style="width: 100%;" height="315" src="https://www.youtube.com/embed/-gYGNQhPI34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe style="width: 100%;" height="530" src="https://www.youtube.com/embed/-gYGNQhPI34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Il est également possible d'exporter ses créations sur des formats plus conventionnels pour ainsi les utiliser dans des vrais logiciels de modélisation comme *Autodesk Maya* ou un logiciel de texturisations comme *Substance*.
@@ -57,6 +57,6 @@ Comme Medium, vous vous retrouvez dans un monde virtuel où vous pouvez dessiner
 Il est également possible de rejoindre des amis sur une session Tilt Brush et donc de **collaborer** sur un même projet en temps réel!
 
 <div style="text-align: center;">
-    <iframe style="width: 100%;" height="315" src="https://www.youtube.com/embed/5oHykuV9I6I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+    <iframe style="width: 100%;" height="530" src="https://www.youtube.com/embed/5oHykuV9I6I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
     <i>Démonstration du multijoueur de Tilt Brush.</i>
 </div>
