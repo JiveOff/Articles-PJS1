@@ -1,4 +1,4 @@
-<center><img style="width: 100%" src="https://i.jiveoff.fr/K8PGj.latest" width="500px" alt="image du logo VRChat"></center>
+<center><img style="width: 35%" src="https://i.jiveoff.fr/K8PGj.latest" width="500px" alt="image du logo VRChat"></center>
 
 En 2017, alors que le nombre de jeux **VR** ne cesse d’augmenter, une application arrive à retenir l’attention des joueurs, **VRChat**. Ce jeu de réalité virtuelle **sociale** rencontre une notoriété telle, que les développeurs eux-mêmes ne pouvaient imaginer. Alors que le nombre de joueurs arrive à dépasser 1 **million** en quelques mois, ce nombre double en une semaine. L’application bénéficie même de financements de plusieurs millions de dollars par des grands noms de la réalité virtuelle. VRChat est un jeu vidéo **multijoueur** qui reproduit un monde virtuel en 3D. Il reprend tous les codes du monde réel, comme par exemple se saluer, discuter. Les joueurs se rencontrent dans l’anonymat le plus total car chacun possède un pseudonyme.
 
