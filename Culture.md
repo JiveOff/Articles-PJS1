@@ -1,4 +1,3 @@
-# La culture et la VR
 
 
 II y a toujours eu chez les hommes, une volonté de retranscrire et de transmettre ce que l’on voit, ce que l’on découvre. L’humain primitif a d’abord utilisé sa voix pour raconter des histoires voyant que l’information s’altérait puis finissait par se perdre il eu la brillante idée de le *dessiner* ainsi naquit la *peinture* et la *sculpture* et dans sa forme plus compacte la *langue* et les *écrits*.
@@ -163,3 +162,24 @@ Malheureusement dans une **société hypersexualisée** comme la nôtre, la vid�
 La technologie de la VR vient de se remettre de ses échecs et à encore besoin d’un peu de temps pour exploiter et se développer au maximum ses capacités mais son avenir est certain et a déjà convaincu une majorité de personnes l'ayant essayé.
 
 ## La culture dans la VR
+
+La VR est donc principalement utilisée pour la vidéo 360°. Mais a quoi sert il concrètement? 
+
+L'utilisation la plus simple que l'on puisse y penser est tout simplement à recréer des espaces existants de la vie réelle pour avoir un aperçu de l'endroit sans à avoir à s'y rendre (**voir nos articles sur le divertissement**). Toujours dans l'optique de plus d'immersion, la vidéo 360° peu révolutionner nombreux domaines. Le domaine le plus évident est celui de la cinématographie où le spectateur ne serait plus passif mais actif. Beaucoup de personnes l'utilisent pour montrer leurs maisons et rend la visite beaucoup plus libre qu'avec une vidéo normale. On pourrait imaginer des visites département ou de maison en VR qui pourrait fortement faciliter le travail dans l'immobilier.  
+
+l'apparition de la VR à aussi permit aux esprits les plus créatifs de s'exprimer
+exposition spectacles
+
+> L'Écume des jours / expérience numérique, une adaptation de quelques scènes du livre éponyme de Boris Vian pour redécouvrir l'univers d'une autre façon.
+
+Mais la capacité de recréer des environnements se démarque surtout par le fait qu'elle conserve l'information pour à peu près toujours et sans jamais être altérer ou détérioré. Ce qui est fortement intéressant pour conserver des copies de monuments ou d'œuvres d'arts. En voici quelques exemples: 
+
+![](https://img.20mn.fr/DRC6RMm_Summ0J2GhTdC8w/648x415)
+
+>**Notre-Dame de Paris** est disponible en VR, cela permet à de nombreuses personnes de se remémorer de cette magnifique église qui est encore de nos jours en cours de reconstruction
+ 
+ ![la joconde](https://www.realite-virtuelle.com/wp-content/uploads/2019/10/Joconde-VR-1.png)
+>**La Joconde** est également disponible en VR ainsi que pleins d'autres parties du **Musée du Louvre** qui propose des visites virtuelles.
+
+![musée d'orsay](https://tse4.mm.bing.net/th?id=OIP.9Dd_M0CTzHw5ZK2bC1HeigHaE7&pid=Api)
+>**Le musée d'Orsay** propose aussi des visites virtuelles.
