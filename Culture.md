@@ -87,7 +87,7 @@ Malgré la perte de confiance en la technologie, de nombreuses œuvres continuen
 >*SAO*, 2009 par **Reki Kawahara** :
 >Une nouvelle console de jeu sort avec son jeu : **Sword Art Online**, le jeu est un **MMORPG** classique mais elle n’est accessible qu’en VR. Des milliers de personnes s’empressent d’acheter cette console mais ce qu’ils ne savaient pas c’est qu’ils se retrouvent coincés dans le jeu sans pouvoir en sortir. Si l’appareil est déconnecté ou le joueur **meurt** dans le jeu alors il enverra une onde électro-magnétique au porteur le tuant sur le coup. **La seule échappatoire est de finir le jeu**.
 
-<center><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/13345215135077.5628d4c617fda.jpg" style="width: 50%; float: left; margin: 0px 15px 15px 0px;"></center>
+<center><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/13345215135077.5628d4c617fda.jpg" style="width: 30%; float: left; margin: 0px 15px 15px 0px;"></center>
 
 *Player one*, 2013 écrit par **Ernest Cline** et le film éponyme « *Ready Player One* » de **Spielberg** en 2018 :
 Dans un monde ravagé par la guerre et les crises, la réalité virtuelle est devenue une **échappatoire** pour l’humanité. L’**OASIS** initialement un **VRMMORPG** est devenu cette **échappatoire** où les gens vivent dedans, le système du jeu est très **discriminatoire** car il nécessite de l’argent pour débloquer des fonctionnalités laissant les plus démunis sur la planète de base. A la mort du créateur du jeu le multimilliardaire **James Halliday** décide de léguer sa fortune à quiconque réussi à trouver ses 3 trésors qu’il a dissimulé à travers tout son jeu. L’univers nous plonge dans une **chasse au trésor virtuelle** qui aura des conséquences irréversibles sur la réalité.
@@ -104,7 +104,8 @@ En 2016, sort simultanément l'**Oculus Rift**, l'**HTC Vive** et la **Playstati
 
 > *L'Oculus Rift* de **Oculus VR** sortit en mars 2016 pour **599$** à sa sortie.
 
-![OCULUS QUEST 2](https://about.fb.com/wp-content/uploads/2020/09/NRP-Facebook_Connect_Introducing_Oculus_Quest_2_the_Next_Generation_of_All-in-One_VR_Gaming_inline-oculus_quest_2_with_controllers.jpg?resize=890,501)
+<center><img src="https://about.fb.com/wp-content/uploads/2020/09/NRP-Facebook_Connect_Introducing_Oculus_Quest_2_the_Next_Generation_of_All-in-One_VR_Gaming_inline-oculus_quest_2_with_controllers.jpg?resize=890,501" style="width: 50%"></center>
+
 >L'*Oculus Quest 2* le dernier casque de **Oculus VR** sortit en octobre 2020 qui coûte seulement **300$**.
 
 
@@ -125,7 +126,7 @@ Il existe cependant des casques vraiment moins chers qui fonctionnent avec des *
 
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Google-Cardboard.jpg/1920px-Google-Cardboard.jpg" style="width: 40%"></center>
 
-> Le *Google cardboard* de **Google** pour seulement **15$**.
+> Le *Google Cardboard* de **Google** pour seulement **15$**.
 
 
 
