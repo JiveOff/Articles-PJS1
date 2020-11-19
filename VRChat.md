@@ -9,7 +9,9 @@ On peut penser que le fait de porter un casque de **réalité virtuelle** nous c
 
 Tout d’abord, cette notoriété peut être expliquée par les possibilités de **personnalisation** offertes aux joueurs. Non seulement ils peuvent choisir n’importe quel personnage mais aussi créer un monde virtuel comme bon leur semble. La plupart des joueurs choisissent comme apparence des personnages de films, bandes dessinées, jeux vidéo. Ce monde virtuel peut très vite ressembler à un bazar mélangeant tous les personnages de licences différentes et d’univers différents.
 
-Le jeu est surtout très populaire auprès des **jeunes** utilisateurs (entre 15 et 30 ans). Cette notoriété grandissante attire des personnes de différents milieux. On peut voir des vidéastes mais aussi des personnes diffusant en direct leur partie de jeux vidéo. Ils voient en VRChat, un jeu populaire et amusant permettant de retenir l’attention du spectateur.
+Le jeu est surtout très populaire auprès des **jeunes** utilisateurs (entre 15 et 30 ans). Cette notoriété grandissante attire des personnes de différents milieux. On peut voir des vidéastes mais aussi des personnes diffusant en direct leur partie de jeux vidéo. Ils voient en VRChat, un jeu populaire et amusant permettant de retenir l’attention du spectateur. 
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZlG2bN9A01o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Le succès est aussi dû à la **diversité** des profils des joueurs. On peut retrouver des personnes de nationalités différentes qui vont essayer de communiquer en apprenant ainsi de nouvelles langues.. Le jeu permet ainsi à des personnes isolées socialement d'interagir plus aisément avec la société. Le fait de porter un casque de réalité virtuelle exempt des facteurs tels que le physique ou l’aisance à l’oral, d’intervenir dans les interactions sociales.
 
