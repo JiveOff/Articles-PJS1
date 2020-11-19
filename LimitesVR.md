@@ -26,12 +26,12 @@ Pour satisfaire ces besoins en ressources, une seule solution : **Avoir une mach
 
 Le casque VR HTC Vive se présente comme le moins **gourmand** en terme de ressources. Par conséquent, vous n’aurez pas besoin d’un ordinateur surpuissant pour avoir une immersion **optimale**. Cependant, HTC recommande d’avoir ces caractéristiques techniques dans sa machine :
 
-> -   **Processeur** : Intel Core i5-4590 (ou supérieur) ou AMD FX 8350 (ou supérieur)
-> -   **Mémoire vive** : 4 Go ou plus
-> -   **Carte graphique** : Nvidia GeForce GTX 1060 (ou supérieur) ou AMD Radeon RX 480 (ou supérieur)
-> -   Sortie vidéo : port HDMI 1.4 ou DisplayPort 1.2 (ou supérieur)
-> -   Port USB : 1 port USB 2.0 (ou supérieur)
-> -   Système d’exploitation : Windows 7 (ou supérieur)
+> -   **Processeur**: Intel Core i5-4590 (ou supérieur) ou AMD FX 8350 (ou supérieur)
+> -   **Mémoire vive**: 4 Go ou plus
+> -   **Carte graphique**: Nvidia GeForce GTX 1060 (ou supérieur) ou AMD Radeon RX 480 (ou supérieur)
+> -   **Sortie vidéo**: port HDMI 1.4 ou DisplayPort 1.2 (ou supérieur)
+> -   **Port USB**: 1 port USB 2.0 (ou supérieur)
+> -   **Système d’exploitation**: Windows 7 (ou supérieur)
 
 
 
