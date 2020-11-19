@@ -170,6 +170,7 @@ L'utilisation la plus simple que l'on puisse y penser est tout simplement à rec
 l'apparition de la VR à aussi permit aux esprits les plus créatifs de s'exprimer
 exposition spectacles
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/332975034" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 > L'Écume des jours / expérience numérique, une adaptation de quelques scènes du livre éponyme de Boris Vian pour redécouvrir l'univers d'une autre façon.
 
 Mais la capacité de recréer des environnements se démarque surtout par le fait qu'elle conserve l'information pour à peu près toujours et sans jamais être altérer ou détérioré. Ce qui est fortement intéressant pour conserver des copies de monuments ou d'œuvres d'arts. En voici quelques exemples: 
