@@ -1,4 +1,4 @@
-<center><img src="https://cdn.vox-cdn.com/uploads/chorus_image/image/58075661/vr_chat.0.png" width="500px" alt="image du logo VRChat"></center>
+<center><img src="https://i.jiveoff.fr/K8PGj.latest" width="500px" alt="image du logo VRChat"></center>
 
 En 2017, alors que le nombre de jeux **VR** ne cesse d’augmenter, une application arrive à retenir l’attention des joueurs, **VRChat**. Ce jeu de réalité virtuelle **sociale** rencontre une notoriété telle, que les développeurs eux-mêmes ne pouvaient imaginer. Alors que le nombre de joueurs arrive à dépasser 1 **million** en quelques mois, ce nombre double en une semaine. L’application bénéficie même de financements de plusieurs millions de dollars par des grands noms de la réalité virtuelle. VRChat est un jeu vidéo **multijoueur** qui reproduit un monde virtuel en 3D. Il reprend tous les codes du monde réel, comme par exemple se saluer, discuter. Les joueurs se rencontrent dans l’anonymat le plus total car chacun possède un pseudonyme.
 
@@ -12,7 +12,7 @@ On peut penser que le fait de porter un casque de **réalité virtuelle** nous c
 Tout d’abord, cette notoriété peut être expliquée par les possibilités de **personnalisation** offertes aux joueurs. Non seulement ils peuvent choisir n’importe quel personnage mais aussi créer un monde virtuel comme bon leur semble. La plupart des joueurs choisissent comme apparence des personnages de films, bandes dessinées, jeux vidéo. Ce monde virtuel peut très vite ressembler à un bazar mélangeant tous les personnages de licences différentes et d’univers différents.
 
 <center>
-  <img src="https://cdn.vox-cdn.com/thumbor/mNM6qpck8xSfkukUMIsZm0yh2gU=/0x0:1200x649/1200x800/filters:focal(482x306:674x498)/cdn.vox-cdn.com/uploads/chorus_image/image/58075661/vr_chat.0.png" width: 400px; alt="Images de personnages sur VRChat" title="Différents personnages sur VRChat">
+  <img src="https://cdn.vox-cdn.com/thumbor/mNM6qpck8xSfkukUMIsZm0yh2gU=/0x0:1200x649/1200x800/filters:focal(482x306:674x498)/cdn.vox-cdn.com/uploads/chorus_image/image/58075661/vr_chat.0.png" width= 400px; alt="Images de personnages sur VRChat" title="Différents personnages sur VRChat">
     <i>Un exemple de la diversité des personnages jouables.</i>
 </center>
 
