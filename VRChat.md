@@ -20,7 +20,7 @@ Le jeu est surtout très populaire auprès des **jeunes** utilisateurs (entre 15
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZlG2bN9A01o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Le succès est aussi dû à la **diversité** des profils des joueurs. On peut retrouver des personnes de nationalités différentes qui vont essayer de communiquer en apprenant ainsi de nouvelles langues.. Le jeu permet ainsi à des personnes isolées socialement d'interagir plus aisément avec la société. Le fait de porter un casque de réalité virtuelle exempt des facteurs tels que le physique ou l’aisance à l’oral, d’intervenir dans les interactions sociales.
+Le succès est aussi dû à la **diversité** des profils des joueurs. On peut retrouver des personnes de nationalités différentes qui vont essayer de communiquer en apprenant ainsi de nouvelles langues. Le jeu permet ainsi à des personnes isolées socialement d'interagir plus aisément avec la société. Le fait de porter un casque de réalité virtuelle exempt des facteurs tels que le physique ou l’aisance à l’oral, d’intervenir dans les interactions sociales.
 
 De plus, le jeu fait preuve d’une très grande **accessibilité** pour tous les joueurs car il est gratuit sur la plateforme Steam. Il est aussi possible de jouer sans casque de réalité virtuelle mais ainsi, sans l’expérience immersive qui va avec.
 
