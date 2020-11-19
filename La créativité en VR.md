@@ -26,14 +26,14 @@ Cette application permet aux utilisateurs de sculpter en utilisant leurs « *mai
 
 Il est alors possible de laisser place à sa propre imagination pour ainsi concevoir de très belles pièces.
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 35px;">
     <img src="https://i.jiveoff.fr/7h36I.jpg" style="width:50%; margin-bottom: 25px;"><br />
     <i>Des sculptures réalisées par la communauté.</i>
 </div>
 
 Il est également possible de modéliser vos personnages d'animés préférés très simplement:
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 35px;">
     <iframe style="width: 100%;" height="315" src="https://www.youtube.com/embed/-gYGNQhPI34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -55,7 +55,7 @@ Après la sculpture, passons au dessin avec **Google Tilt Brush**.
 
 Comme Medium, vous vous retrouvez dans un monde virtuel où vous pouvez dessiner en **3D**. Votre manette droite vous servira à dessiner et la gauche, à manipuler votre palette, comme un vrai artiste.
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 35px;">
     <img src="https://3dscanexpert.com/wp-content/uploads/3d-scan-expert-poly-tiltbrush-tutorial-header-1024x593.jpg"><br/>
     <i>Outils disponibles sur Tilt Brush.</i>
 </div>
