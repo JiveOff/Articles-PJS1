@@ -11,6 +11,11 @@ On peut penser que le fait de porter un casque de **réalité virtuelle** nous c
 
 Tout d’abord, cette notoriété peut être expliquée par les possibilités de **personnalisation** offertes aux joueurs. Non seulement ils peuvent choisir n’importe quel personnage mais aussi créer un monde virtuel comme bon leur semble. La plupart des joueurs choisissent comme apparence des personnages de films, bandes dessinées, jeux vidéo. Ce monde virtuel peut très vite ressembler à un bazar mélangeant tous les personnages de licences différentes et d’univers différents.
 
+<center>
+  <img src="https://cdn.vox-cdn.com/thumbor/mNM6qpck8xSfkukUMIsZm0yh2gU=/0x0:1200x649/1200x800/filters:focal(482x306:674x498)/cdn.vox-cdn.com/uploads/chorus_image/image/58075661/vr_chat.0.png" width: 400px; alt="Images de personnages sur VRChat" title="Différents personnages sur VRChat">
+    <i>Un exemple de la diversité des personnages jouables.</i>
+</center>
+
 Le jeu est surtout très populaire auprès des **jeunes** utilisateurs (entre 15 et 30 ans). Cette notoriété grandissante attire des personnes de différents milieux. On peut voir des vidéastes mais aussi des personnes diffusant en direct leur partie de jeux vidéo. Ils voient en VRChat, un jeu populaire et amusant permettant de retenir l’attention du spectateur. 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZlG2bN9A01o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
