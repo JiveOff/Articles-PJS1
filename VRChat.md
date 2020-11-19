@@ -11,10 +11,12 @@ On peut penser que le fait de porter un casque de **réalité virtuelle** nous c
 
 Tout d’abord, cette notoriété peut être expliquée par les possibilités de **personnalisation** offertes aux joueurs. Non seulement ils peuvent choisir n’importe quel personnage mais aussi créer un monde virtuel comme bon leur semble. La plupart des joueurs choisissent comme apparence des personnages de films, bandes dessinées, jeux vidéo. Ce monde virtuel peut très vite ressembler à un bazar mélangeant tous les personnages de licences différentes et d’univers différents.
 
+
 <center>
   <img src="https://cdn.vox-cdn.com/thumbor/mNM6qpck8xSfkukUMIsZm0yh2gU=/0x0:1200x649/1200x800/filters:focal(482x306:674x498)/cdn.vox-cdn.com/uploads/chorus_image/image/58075661/vr_chat.0.png" width= 400px; alt="Images de personnages sur VRChat" title="Différents personnages sur VRChat"><br/>
     <i>Un exemple de la diversité des personnages jouables.</i>
 </center>
+
 
 Le jeu est surtout très populaire auprès des **jeunes** utilisateurs (entre 15 et 30 ans). Cette notoriété grandissante attire des personnes de différents milieux. On peut voir des vidéastes mais aussi des personnes diffusant en direct leur partie de jeux vidéo. Ils voient en VRChat, un jeu populaire et amusant permettant de retenir l’attention du spectateur. 
 
@@ -34,8 +36,15 @@ Néanmoins, depuis 2018, le jeu a connu une certaine décroissance jusqu’à la
 
 Le jeu a aussi rencontré un franc succès auprès de la presse en faisant les titres en 2018 et lors du premier confinement. Les chiffres de 2020 sont encore plus impressionnants que ceux d’il y a deux ans, notamment grâce à l’a montée en puissance et au développement des casque de réalité virtuelle.
 
-En dehors de ces chiffres gratifiants, il existe des dérives importantes à notifier.
 
+<center>
+  <img src="https://i.imgur.com/6yaO6zz_d.webp?maxwidth=760&fidelity=grand" width= 300px; alt="Images article LeMonde" title="article LeMonde"><br/>
+    <i>Article du journal Le Monde sur VRChat</i>
+</center> 
+
+
+
+En dehors de ces chiffres gratifiants, il existe des dérives importantes à notifier.
   
 # Dérives
 
