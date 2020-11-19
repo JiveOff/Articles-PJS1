@@ -34,7 +34,7 @@ Il est alors possible de laisser place à sa propre imagination pour ainsi conce
 Il est également possible de modéliser vos personnages d'animés préférés très simplement:
 
 <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/-gYGNQhPI34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe style="width: 100%;" height="315" src="https://www.youtube.com/embed/-gYGNQhPI34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Il est également possible d'exporter ses créations sur des formats plus conventionnels pour ainsi les utiliser dans des vrais logiciels de modélisation comme *Autodesk Maya* ou un logiciel de texturisations comme *Substance*.
@@ -60,7 +60,7 @@ Il est également possible de rejoindre des amis sur une session Tilt Brush et d
 
 
 <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/5oHykuV9I6I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+    <iframe style="width: 100%;" height="315" src="https://www.youtube.com/embed/5oHykuV9I6I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
     <i>Démonstration du multijoueur de Tilt Brush.</i>
 </center>
 
