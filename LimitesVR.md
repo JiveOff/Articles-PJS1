@@ -35,7 +35,7 @@ Le casque VR HTC Vive se présente comme le moins **gourmand** en terme de resso
 
 
 
-### Encombrent
+### Encombrant
 
 Lorsque vous avez rempli les conditions précédentes pour enfin pouvoir utiliser votre casque Vr, il vous faudra, pour jouer en toute **sécurité**, un espace dégagé, sans obstacle. L’espace de jeu minimal **recommandé** pour une expérience de jeu optimal est de **2m x 1,5 m, soit 3 m²**. Mais ce n’est pas fini, les nombreux câbles vous attachant vous et le casque avec votre machine rendent difficiles les **mouvements**, sans oublier que le casque représente également un **poids** conséquent. Enfin, l’esthétique de votre casque. On ne va pas se cacher porter ces casques peuvent d’un certain point de vue **vous rendre ridicule**, de plus vous ne pourrez pas vous démarquer des autres : tous les casques se ressemblent. À voir dans le futur si les producteurs fourniront des modèles plus **modernes et élégants**.
 
