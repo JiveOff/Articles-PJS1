@@ -38,8 +38,8 @@ Le jeu a aussi rencontré un franc succès auprès de la presse en faisant les t
 
 
 <center>
-  <img src="https://i.imgur.com/6yaO6zz_d.webp?maxwidth=760&fidelity=grand" width= 300px; alt="Images article LeMonde" title="article LeMonde"><br/>
-    <i>Article du journal Le Monde sur VRChat</i>
+  <img src="https://i.imgur.com/6yaO6zz_d.webp?maxwidth=760&fidelity=grand" width= 400px; alt="Images article LeMonde" title="article LeMonde"><br/>
+    <i>Article du journal Le Monde sur VRChat.</i>
 </center> 
 
 
