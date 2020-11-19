@@ -12,7 +12,7 @@ La première idée qui nous vient en tête, **le prix**. Évidemment, il existe 
 
 Afin d’expliquer ces prix qui peuvent paraître exorbitant, on pourrait justifier le fait que la réalité Virtuelle soit une nouvelle technique et qu’il faut **rembourser** les investissements qu’elle représente. Cependant après 5 ans d’existence on constate que les prix des casques sont davantage **revus à la baisse** et avec le possible arrivé de la réalité augmenté cette tendance ne peut que **croitre**.
 
-### Le Matériel
+### Le matériel
 
 Nous avons vu plutôt que l’achat d’un casque de Réalité Virtuelles peut représenter un achat conséquent, mais cela ne s’arrête pas là, les logiciels actifs de cette technologie demandent beaucoup de ressource. Un jeu en réalité virtuel peut atteindre une **résolution de 3024 x 1680 pixels** avec une fréquence atteignant les **90 images par seconde**, à titre de comparaison un jeu classique tourne avec une **résolution de 1920 x 1080 pixels et 60 images par seconde**. 
 
@@ -39,7 +39,7 @@ Le casque VR HTC Vive se présente comme le moins **gourmand** en terme de resso
 
 Lorsque vous avez rempli les conditions précédentes pour enfin pouvoir utiliser votre casque Vr, il vous faudra, pour jouer en toute **sécurité**, un espace dégagé, sans obstacle. L’espace de jeu minimal **recommandé** pour une expérience de jeu optimal est de **2m x 1,5 m, soit 3 m²**. Mais ce n’est pas fini, les nombreux câbles vous attachant vous et le casque avec votre machine rendent difficiles les **mouvements**, sans oublier que le casque représente également un **poids** conséquent. Enfin, l’esthétique de votre casque. On ne va pas se cacher porter ces casques peuvent d’un certain point de vue **vous rendre ridicule**, de plus vous ne pourrez pas vous démarquer des autres : tous les casques se ressemblent. À voir dans le futur si les producteurs fourniront des modèles plus **modernes et élégants**.
 
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/t82ag5wxF5A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%; margin-bottom: 50px;" height="315" src="https://www.youtube.com/embed/t82ag5wxF5A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -47,18 +47,18 @@ Lorsque vous avez rempli les conditions précédentes pour enfin pouvoir utilise
 
 
 
-### **L’isolation et l’oublie de soi même :** <img src="https://i.imgur.com/ydMoZpk.png" style="width:20%; margin-bottom: 25px; float: right; display: inline-block; margin: 40px">   
+### L’isolation et l’oublie de soi même : <img src="https://i.imgur.com/ydMoZpk.png" style="width:20%; margin-bottom: 25px; float: right; display: inline-block; margin: 40px">   
 
 **S’échapper** de son quotidien avec la réalité virtuelle représente un risque potentiel pour votre santé, celui de **s’isoler du reste du monde** par une utilisation prolongé de la VR. Il se peut que vous vous sentiez bien dans votre **monde fantaisiste** jusqu’à en devenir accroc et a en arriver à le considérer comme **votre réalité**. Il faut cependant garder à l’esprit que ce que vous expérimentez reste totalement **fictif** et n’a que pour but de vous divertir.
 
 
 
-### **<img src="https://i.imgur.com/lhTsj8G.png" style="width:18%; margin-bottom: 25px; float: left; display: inline-block; margin: 40px">Les dangers potentiels de la réalité virtuelle sur la santé :**
+### <img src="https://i.imgur.com/lhTsj8G.png" style="width:18%; margin-bottom: 25px; float: left; display: inline-block; margin: 40px">Les dangers potentiels de la réalité virtuelle sur la santé :
 
 La réalité n’échappe pas aux désagréments que sont les **nausées ou les sécheresses oculaires**.  
 Plus communément appelés «**Cybersickness**», environ **45% des utilisateurs de la VR** affirment avoir vécu ces malaises. N’espérez pas pouvoir tromper votre cerveau et ses 5 sens en toutes **impunités**. Le décalage provoqué par ce que vous voyez et ce que vous ressentez porte a **confusion** pour votre cerveau et explique pourquoi des malaises peuvent survenir.
 
-
+<br />
 
 
 ## Les enjeux juridiques de la réalité virtuelle et la législation en vigueur
