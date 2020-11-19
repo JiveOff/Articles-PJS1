@@ -29,7 +29,7 @@ Il est alors possible de laisser place à sa propre imagination pour ainsi conce
 <div style="text-align: center; margin-bottom: 35px;">
     <img src="https://i.jiveoff.fr/7h36I.jpg" style="width:50%; margin-bottom: 25px;"><br />
     <i>Des sculptures réalisées par la communauté.</i>
-</div>
+</div><br />
 
 Il est également possible de modéliser vos personnages d'animés préférés très simplement:
 
@@ -39,15 +39,9 @@ Il est également possible de modéliser vos personnages d'animés préférés t
 
 Il est également possible d'exporter ses créations sur des formats plus conventionnels pour ainsi les utiliser dans des vrais logiciels de modélisation comme *Autodesk Maya* ou un logiciel de texturisations comme *Substance*.
 
-
-
 Vous pouvez télécharger **Oculus Medium** sur ce [lien](https://oculus.com/medium).
 
-
-
 Après la sculpture, passons au dessin avec **Google Tilt Brush**.
-
-
 
 # Tilt Brush
 
@@ -58,7 +52,7 @@ Comme Medium, vous vous retrouvez dans un monde virtuel où vous pouvez dessiner
 <div style="text-align: center; margin-bottom: 35px;">
     <img src="https://3dscanexpert.com/wp-content/uploads/3d-scan-expert-poly-tiltbrush-tutorial-header-1024x593.jpg"><br/>
     <i>Outils disponibles sur Tilt Brush.</i>
-</div>
+</div><br />
 
 Il est également possible de rejoindre des amis sur une session Tilt Brush et donc de **collaborer** sur un même projet en temps réel!
 
