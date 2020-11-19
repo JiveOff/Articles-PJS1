@@ -50,7 +50,6 @@ En dehors de ces chiffres gratifiants, il existe des dérives importantes à not
 
 
 VRChat a essuyé de nombreuses **critiques** à cause de certains joueurs ayant des comportements sexistes, racistes ou même harceleurs.
-
 Le harcèlement sexuel est un gros problème auquel font face les créateurs de VRChat. Des joueurs s’amusent à attendre des néophytes au début du jeu puis leur invectivent des termes injurieux et simulent des actes sexuels. Leur but est de faire craquer ces joueurs mais surtout **joueuses** et de les faire fuir. Une membre de l’équipe du jeu a voulu voir ce phénomène de ses propres yeux. Elle n’a pas tenu plus longtemps que deux minutes. Ces joueurs toxiques représentent un réel problème pour le développement du jeu, c’est même la priorité n°1 des créateurs. En effet, qui voudrait commencer une aventure sur un jeu VR et dès les premières secondes se faire insulter et chasser de ce monde ? On peut aussi évoquer un joueur qui a subi une crise d’épilepsie en jouant à VRChat. Les autres joueurs assistaient impuissants à la scène, voyant ainsi l’avatar convulser.
 
   
