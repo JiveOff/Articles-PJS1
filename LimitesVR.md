@@ -18,11 +18,11 @@ Nous avons vu plutôt que l’achat d’un casque de Réalité Virtuelles peut r
 
 Pour satisfaire ces besoins en ressources, une seule solution : **Avoir une machine puissante**. Le moyen le plus rependu pour faire tourner et utiliser son casque VR est l’utilisation d'un ordinateur, il est bien sûr possible d’utiliser sa console comme la Ps4 de chez Sony et sa Playstation VR. Comptez un budget dans une fourchette de prix entre 700e et 1500e pour avoir un ordinateur compatible avec la VR, ces prix varient souvent avec la sortie de nouveau produit du coté de la réalité virtuelle comme pour le hardware chez les ordinateurs.
 
-<center> <img src="https://i.imgur.com/NtsnzmN.png" style="width: 25%">    <img src="https://i.imgur.com/KuENyxq.png"  style="width: 15%"><img src="https://i.imgur.com/UOho1lj.png" style="width: 25%"> <br />    <i>Label de marque spécialisé dans le Hardware informatique précisant que le produit convient à l'utilisation de la VR</i>  </center>
+<center> <img src="https://i.imgur.com/NtsnzmN.png" style="width: 25%; margin: 10px; vertical-align: middle;">    <img src="https://i.imgur.com/KuENyxq.png"  style="width: 15%; margin: 10px; vertical-align: middle;"><img src="https://i.imgur.com/UOho1lj.png" style="width: 25%; margin: 10px; vertical-align: middle;"> <br />    <i>Label de marque spécialisé dans le Hardware informatique précisant que le produit convient à l'utilisation de la VR</i>  </center>
 
 
 
-#### Le cas : HTC Vive
+#### Le cas: HTC Vive
 
 Le casque VR HTC Vive se présente comme le moins **gourmand** en terme de ressources. Par conséquent, vous n’aurez pas besoin d’un ordinateur surpuissant pour avoir une immersion **optimale**. Cependant, HTC recommande d’avoir ces caractéristiques techniques dans sa machine :
 
