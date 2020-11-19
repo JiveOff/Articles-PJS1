@@ -50,7 +50,7 @@ Après la sculpture, passons au dessin avec **Google Tilt Brush**.
 Comme Medium, vous vous retrouvez dans un monde virtuel où vous pouvez dessiner en **3D**. Votre manette droite vous servira à dessiner et la gauche, à manipuler votre palette, comme un vrai artiste.
 
 <div style="text-align: center; margin-bottom: 35px;">
-    <img src="https://3dscanexpert.com/wp-content/uploads/3d-scan-expert-poly-tiltbrush-tutorial-header-1024x593.jpg"><br/>
+    <img src="https://3dscanexpert.com/wp-content/uploads/3d-scan-expert-poly-tiltbrush-tutorial-header-1024x593.jpg" style="width: 100%"><br/>
     <i>Outils disponibles sur Tilt Brush.</i>
 </div><br />
 
