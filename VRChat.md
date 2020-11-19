@@ -1,4 +1,4 @@
-<center><img src="https://i.jiveoff.fr/K8PGj.latest" width="500px" alt="image du logo VRChat"></center>
+<center><img style="width: 100%" src="https://i.jiveoff.fr/K8PGj.latest" width="500px" alt="image du logo VRChat"></center>
 
 En 2017, alors que le nombre de jeux **VR** ne cesse d’augmenter, une application arrive à retenir l’attention des joueurs, **VRChat**. Ce jeu de réalité virtuelle **sociale** rencontre une notoriété telle, que les développeurs eux-mêmes ne pouvaient imaginer. Alors que le nombre de joueurs arrive à dépasser 1 **million** en quelques mois, ce nombre double en une semaine. L’application bénéficie même de financements de plusieurs millions de dollars par des grands noms de la réalité virtuelle. VRChat est un jeu vidéo **multijoueur** qui reproduit un monde virtuel en 3D. Il reprend tous les codes du monde réel, comme par exemple se saluer, discuter. Les joueurs se rencontrent dans l’anonymat le plus total car chacun possède un pseudonyme.
 
@@ -13,7 +13,7 @@ Tout d’abord, cette notoriété peut être expliquée par les possibilités de
 
 
 <center>
-  <img src="https://cdn.vox-cdn.com/thumbor/mNM6qpck8xSfkukUMIsZm0yh2gU=/0x0:1200x649/1200x800/filters:focal(482x306:674x498)/cdn.vox-cdn.com/uploads/chorus_image/image/58075661/vr_chat.0.png" width= 400px; alt="Images de personnages sur VRChat" title="Différents personnages sur VRChat"><br/>
+  <img style="width: 100%" src="https://cdn.vox-cdn.com/thumbor/mNM6qpck8xSfkukUMIsZm0yh2gU=/0x0:1200x649/1200x800/filters:focal(482x306:674x498)/cdn.vox-cdn.com/uploads/chorus_image/image/58075661/vr_chat.0.png" width= 400px; alt="Images de personnages sur VRChat" title="Différents personnages sur VRChat"><br/>
     <i>Un exemple de la diversité des personnages jouables.</i>
 </center>
 
@@ -38,7 +38,7 @@ Le jeu a aussi rencontré un franc succès auprès de la presse en faisant les t
 
 
 <center>
-  <img src="https://i.imgur.com/6yaO6zz_d.webp?maxwidth=760&fidelity=grand" width= 400px; alt="Images article LeMonde" title="article LeMonde"><br/>
+  <img src="https://i.imgur.com/6yaO6zz_d.webp?maxwidth=760&fidelity=grand" style="width: 35%" alt="Images article LeMonde" title="article LeMonde"><br/>
     <i>Article du journal Le Monde sur VRChat.</i>
 </center> 
 
