@@ -1,5 +1,3 @@
-## La VR dans la culture populaire
-
 Pour savoir ce que les gens pensent vraiment de la VR nous avons réalisé un sondage au sein de notre département (sur un total de 34 réponses).
 
 <center>
