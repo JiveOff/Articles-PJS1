@@ -20,7 +20,7 @@ Les plus chanceux parmi eux avaient la possibilité d'y jouer, mais de chez eux 
 
   
 
-<center<img style="width: 55%" height="300" src="https://lh3.googleusercontent.com/gFwBUPitmYHVCvwt5oFibLrRPQm9m12KMTgGEpsHq-0X5z_d66NJqh-mBHxlGwXUzcwVLjg0Zx4pErNjSBt69ntZJ94QfxearBLAso4cjvbKx4gKegiN-Hvp3LzrW1RluAP74jN9"></center>
+<center><img style="width: 55%" height="300" src="https://lh3.googleusercontent.com/gFwBUPitmYHVCvwt5oFibLrRPQm9m12KMTgGEpsHq-0X5z_d66NJqh-mBHxlGwXUzcwVLjg0Zx4pErNjSBt69ntZJ94QfxearBLAso4cjvbKx4gKegiN-Hvp3LzrW1RluAP74jN9"></center>
 
 > Vendus à 30 millions d'exemplaires. Elle permettait de jouer à de
 > multiples jeux, grâce à ses cartouches qu’on insérer simplement dans
