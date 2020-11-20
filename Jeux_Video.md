@@ -98,7 +98,7 @@ Nouvelle saga des jeux Resident Evil, très connus dans le monde des **jeux horr
 
 La troisième et dernière catégorie de jeux d’aventure faisant l'unanimité. Sont les jeux d’aventures dans des mondes insolites.
 
-**Skyrim VR **(Oculus Rift, HTC Vive, PlayStation VR)
+**Skyrim VR** (Oculus Rift, HTC Vive, PlayStation VR)
 
 <iframe style="width: 100%" height="530" src="https://www.youtube.com/embed/fg_vqd8zAhw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
