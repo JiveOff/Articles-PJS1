@@ -61,14 +61,15 @@ Plus communément appelés «**Cybersickness**», environ **45% des utilisateurs
 <br />
 
 
-## Les enjeux juridiques de la réalité virtuelle et la législation en vigueur
+## La juridiction et la législation sur la Réalité Augmenté
 
 <center><img src="https://i.imgur.com/55RpflH.png" style="width:20%; margin-bottom: 25px; float: left; display: inline-block; margin: 40px"></center>
 
-En France, aucun texte **législatif ou réglementaire** n'existe pour encadrer la réalité virtuelle, alors même qu'elle pose un certain **nombre d'enjeux** qui méritent que l'on s'y intéresse.
+En France, il existe aucun texte **législatif ou réglementaire** encadrer la réalité virtuelle, alors même qu'elle represente un réel **enjeux** dont nous devons nous y pencher.
 Par exemple, aucun **Age minimum** n’est fixé quant à l’utilisation d’un casque VR
 
 La marque Sony a pris les devants en limitant l’utilisation de son PSVR à **12 ans**.
+Les marques Oculus Rift et HTC Vive ont quant à elles limité l'utilisation de leurs produits à **13 ans**
 
 Or, l’utilisation du casque présente des **risques** pour les enfants dont la cornée n'est pas encore formée, mais aussi au niveau **comportemental**.
 
@@ -81,7 +82,7 @@ Vu dans la partie sur **la créativité dans la VR**, il n’existe aucun encadr
 
 ### L'application du droit à la réalité virtuelle
 
-Nous avons vu dans la partie : **la culture dans la VR**, visiter un musée, jouer dans un univers parallèle, voyager, découvrir un appartement, est rendu **possible**. Il faut se demander comment pourrait-on encadrer cette technologie ? Comme nous l'avons mentionné précédemment, aucun texte en droit français n'encadre de manière **spécifique** la réalité virtuelle.
+Nous avons vu dans la partie : **la culture et la VR**, visiter un musée, jouer dans un univers parallèle, voyager, découvrir un appartement, est rendu **possible**. Il faut se demander comment pourrait-on encadrer cette technologie ? Comme nous l'avons mentionné précédemment, aucun texte en droit français n'encadre de manière **spécifique** la réalité virtuelle.
 
 ### Droit des utilisateurs
 
