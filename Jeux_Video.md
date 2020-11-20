@@ -1,7 +1,3 @@
-## Lorsqu'on parle de réalité virtuelle, l'un des premiers aspects auxquels on pense est généralement le jeux vidéo.
-
-  
-
 **Le jeu vidéo est le meilleur moyen d'échapper à son quotidien** , seul ou bien à plusieurs. Du tout premier jeu “tennis for two”, jusqu'à aujourd'hui énormément d’innovation on était apporté à ce domaine.
 
 <iframe style="width: 100%" height="530" src="https://www.youtube.com/embed/6PG2mdU_i8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
