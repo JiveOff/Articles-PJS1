@@ -11,7 +11,7 @@ Dans les années 1980, les premières **bornes arcades** font leur apparition. M
 
   
 
-<center><img style="width: 30%" height="300" src="https://lh4.googleusercontent.com/ZfYdN5Yc__-2PH52tWSRVxwhYwFCJ3wcRvkPG8VYGvdh5ETYW_MurMh6D6vxU7H1sq9s8N125JVWH5kgRTJxiQ78LzkO_auj0zlZ-aKKqPhMoN4cRpxzQ62Wq3qzcGhxUG2LAhJ3"></center>
+<center><img style="width: 70%" height="300" src="https://lh4.googleusercontent.com/ZfYdN5Yc__-2PH52tWSRVxwhYwFCJ3wcRvkPG8VYGvdh5ETYW_MurMh6D6vxU7H1sq9s8N125JVWH5kgRTJxiQ78LzkO_auj0zlZ-aKKqPhMoN4cRpxzQ62Wq3qzcGhxUG2LAhJ3"></center>
 
   
 
@@ -20,7 +20,7 @@ Les plus chanceux parmi eux avaient la possibilité d'y jouer, mais de chez eux 
 
   
 
-<center><img style="width: 30%" height="300" src="https://lh3.googleusercontent.com/gFwBUPitmYHVCvwt5oFibLrRPQm9m12KMTgGEpsHq-0X5z_d66NJqh-mBHxlGwXUzcwVLjg0Zx4pErNjSBt69ntZJ94QfxearBLAso4cjvbKx4gKegiN-Hvp3LzrW1RluAP74jN9"></center>
+<center><img style="width: 70%" height="300" src="https://lh3.googleusercontent.com/gFwBUPitmYHVCvwt5oFibLrRPQm9m12KMTgGEpsHq-0X5z_d66NJqh-mBHxlGwXUzcwVLjg0Zx4pErNjSBt69ntZJ94QfxearBLAso4cjvbKx4gKegiN-Hvp3LzrW1RluAP74jN9"></center>
 
 > Vendus à 30 millions d'exemplaires. Elle permettait de jouer à de
 > multiples jeux, grâce à ses cartouches qu’on insérer simplement dans
@@ -37,7 +37,7 @@ Nous sommes passés de **simple points sur un écran**, à des jeux aux paysages
 
   
 
-<center><img style="width: 30%" height="300" src="https://lh5.googleusercontent.com/5-22YZm86o-df9HP2cURHLU4XdfLSqMXh4eG1pKtcb9rjaV2XBL94zRHA9HtSvdgQ5G7CiQ8OxD14afFLzJ4HsWKEIk1ZtebZKlxuaFxmf_uU0R2xww6cVO3Ur-KVSnqkbvXnnxh"></center>
+<center><img style="width: 70%" height="300" src="https://lh5.googleusercontent.com/5-22YZm86o-df9HP2cURHLU4XdfLSqMXh4eG1pKtcb9rjaV2XBL94zRHA9HtSvdgQ5G7CiQ8OxD14afFLzJ4HsWKEIk1ZtebZKlxuaFxmf_uU0R2xww6cVO3Ur-KVSnqkbvXnnxh"></center>
 
 > Horizon Zero Dawn jeu de rôle et d’action en monde ouvert
 
