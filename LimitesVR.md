@@ -7,7 +7,7 @@ La réalité virtuelle s’est déjà imposé depuis ces 5 dernières années au
 La première idée qui nous vient en tête, **le prix**. Évidemment, il existe sur le marché de nombreux casques à bas prix, souvent ce sont des casques qui utilisent votre smartphone comme celui de chez **Samsung** le **Gear VR**. Il faut compter entre **500$ et 1000$** pour espérer avoir un produit de bonne qualité :
 
 <center>
-  <div style="display: inline-block;width: 50%;"><img src="https://imgur.com/yvR01yr.png" style="width: 70%;"><br>Oculus Rift S : 449€</div><div style="display: inline-block;width: 50%;">
+  <div style="display: inline-block;width: 49%;"><img src="https://imgur.com/yvR01yr.png" style="width: 70%;"><br>Oculus Rift S : 449€</div><div style="display: inline-block;width: 49%;">
   <img src="https://i.imgur.com/9EY3koh.jpg" style="width: 60%;"><br>Oculus Rift S : 449€</div>
 </center>
 
