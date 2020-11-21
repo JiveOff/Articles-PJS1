@@ -71,7 +71,7 @@ Fan de Star Wars ? Star Wars: Squadrons est fait pour vous. Il vous permet au ch
 
   
 
-**Vader Immortal **(Oculus Quest)
+**Vader Immortal** (Oculus Quest)
 
 <center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/uPEss1KRccI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
