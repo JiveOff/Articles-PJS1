@@ -18,7 +18,7 @@ Si vous voulez plus d’informations, sur **quel principe repose ces technologie
 
 
 
-<iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/Z7ZhA6hctuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/Z7ZhA6hctuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 
 
@@ -49,7 +49,7 @@ Bien que la VR ne propose pas d’être physiquement sur une plage ou au sommet 
 
 
 
-<iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/SCrkZOx5Q1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/SCrkZOx5Q1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
   
 
@@ -65,7 +65,7 @@ Vous avez une ville ou bien un pays que vous aimeriez vraiment visiter en vrai. 
 
   
 
-<iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/AFKSHrQQ0ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/AFKSHrQQ0ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
   
 
