@@ -4,7 +4,7 @@ En 2017, alors que le nombre de jeux **VR** ne cesse d’augmenter, une applicat
 
   La **sociabilité** est la capacité d’une personne à être sociable et à évoluer de façon adaptée dans la **société** ou au milieu d'un ensemble d'individus partageant une culture et une idéologie similaires.
 
-On peut penser que le fait de porter un casque de **réalité virtuelle** nous coupe du monde réel et nous empêche d’avoir des relations sociales. Cependant, il existe des supports numériques en réalité virtuelle qui nous permettent de rester en **contact** entre individus comme **VRChat** que nous venons de présenter ci-dessus. En effet, utiliser la réalité virtuelle pour nouer des relations sociales est une très bonne alternative notamment au vu du contexte sanitaire. Cette méthode est très utile pour les handicapés ou bien les personnes ayant une forte anxiété sociale.
+On peut penser que le fait de porter un casque de **réalité virtuelle** nous coupe du monde réel et nous empêche d’avoir des relations sociales. Cependant, il existe des supports numériques en réalité virtuelle qui nous permettent de rester en **contact** entre individus comme **VRChat** que nous venons de présenter ci-dessus. En effet, utiliser la réalité virtuelle pour nouer des relations sociales est une très bonne alternative notamment au vu du contexte sanitaire. Cette méthode est très utile pour les personnes en situation de handicap ou bien ayant une forte anxiété sociale.
 
 
 # Succès
@@ -18,7 +18,7 @@ Tout d’abord, cette notoriété peut être expliquée par les possibilités de
 </center>
 
 
-Le jeu est surtout très populaire auprès des **jeunes** utilisateurs (entre 15 et 30 ans). Cette notoriété grandissante attire des personnes de différents milieux. On peut voir des vidéastes mais aussi des personnes diffusant en direct leur partie de jeux vidéo. Ils voient en VRChat, un jeu populaire et amusant permettant de retenir l’attention du spectateur. 
+Le jeu est surtout très populaire auprès des **jeunes** utilisateurs (entre 15 et 30 ans). Cette notoriété grandissante attire des personnes de différents milieux. On peut voir des vidéastes mais aussi des personnes diffusant en direct leur partie de jeux vidéo. Ils voient en VRChat un jeu populaire et amusant permettant de retenir l’attention du spectateur. 
 
 <center><iframe style="width: 100%" height="530" src="https://www.youtube.com/embed/ZlG2bN9A01o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -26,7 +26,7 @@ Le succès est aussi dû à la **diversité** des profils des joueurs. On peut r
 
 De plus, le jeu fait preuve d’une très grande **accessibilité** pour tous les joueurs car il est gratuit sur la plateforme Steam. Il est aussi possible de jouer sans casque de réalité virtuelle mais ainsi, sans l’expérience immersive qui va avec.
 
-Néanmoins, depuis 2018, le jeu a connu une certaine décroissance jusqu’à la crise du COVID-19. Le jeu a su faire revenir les anciens joueurs et à en apporter de nouveaux grâce à l’ajout de mise à jour améliorant le jeu.
+Néanmoins, depuis 2018, le jeu a connu une certaine décroissance jusqu’à la crise de la COVID-19. Le jeu a su faire revenir les anciens joueurs et à en apporter de nouveaux grâce à l’ajout de mise à jour améliorant le jeu.
 
   
 
@@ -34,7 +34,7 @@ Néanmoins, depuis 2018, le jeu a connu une certaine décroissance jusqu’à la
 
   
 
-Le jeu a aussi rencontré un franc succès auprès de la presse en faisant les titres en 2018 et lors du premier confinement. Les chiffres de 2020 sont encore plus impressionnants que ceux d’il y a deux ans, notamment grâce à l’a montée en puissance et au développement des casque de réalité virtuelle.
+Le jeu a aussi rencontré un franc succès auprès de la presse en faisant les titres en 2018 et lors du premier confinement. Les chiffres de 2020 sont encore plus impressionnants que ceux d’il y a deux ans, notamment grâce à la montée en puissance et au développement des casque de réalité virtuelle.
 
 
 <center>
@@ -57,4 +57,4 @@ Le harcèlement sexuel est un gros problème auquel font face les créateurs de 
 
 Ce phénomène est d’une grande complexité à endiguer. En effet, le nombre de joueurs croissant est une menace pour le jeu, il amène dans son sillage des **“trolls”** qui ruinent l’expérience d’autres joueurs.
 
-Il est donc essentiel pour la pérennité du jeu d’endiguer ce phénomène, notamment par l’emploi de nombreux modérateurs. Mais cela risque d’être insuffisant, ils leur faut également repenser tout le système de modération afin de le rendre plus efficace
+Il est donc essentiel pour la pérennité du jeu d’endiguer ce phénomène, notamment par l’emploi de nombreux modérateurs. Mais cela risque d’être insuffisant, ils leur faut également repenser tout le système de modération afin de le rendre plus efficace.
