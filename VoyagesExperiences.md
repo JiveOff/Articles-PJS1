@@ -84,7 +84,7 @@ Comme le titre l'indique, il existe d'innombrables expériences à vivre en VR. 
 
 <iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/hNAbQYU0wpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />  
 
-La VR prend tellement d'**ampleur**, à tel point que certaines entreprises se sont spécialisées dans la **création d'expérience en réalité virtuelle**. Que ce soit pour les professionnels ou le grand public. C'est le cas par exemple d'une jeune entreprise française UniV Studio. Qui propose notamment des formations en tout genre en réalité virtuelle pour les professionnels dans énormément de domaines. Elle propose aussi d'organiser différents événements, dont le but est de transmettre aux mieux les demandes de leurs clients en VR. En quelques années, cette entreprise a pu opérer dans de grands groupes voir même certaines régions de France.
+La VR prend tellement d'**ampleur**, à tel point que certaines entreprises se sont spécialisées dans la **création d'expérience en réalité virtuelle**. Que ce soit pour les professionnels ou le grand public. C'est le cas par exemple d'une jeune entreprise française **UniV Studio**. Qui propose notamment des formations en tout genre en réalité virtuelle pour les professionnels dans énormément de domaines. Elle propose aussi d'organiser différents événements, dont le but est de transmettre aux mieux les demandes de leurs clients en VR. En quelques années, cette entreprise a pu opérer dans de grands groupes voir même certaines régions de France.
 
 
 
