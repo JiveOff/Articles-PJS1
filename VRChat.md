@@ -13,14 +13,14 @@ Tout d’abord, cette notoriété peut être expliquée par les possibilités de
 
 
 <center>
-  <img style="width: 100%" src="https://cdn.vox-cdn.com/thumbor/mNM6qpck8xSfkukUMIsZm0yh2gU=/0x0:1200x649/1200x800/filters:focal(482x306:674x498)/cdn.vox-cdn.com/uploads/chorus_image/image/58075661/vr_chat.0.png" width= 250px; alt="Images de personnages sur VRChat" title="Différents personnages sur VRChat"><br/>
+  <img style="width: 100%" src="https://cdn.vox-cdn.com/thumbor/mNM6qpck8xSfkukUMIsZm0yh2gU=/0x0:1200x649/1200x800/filters:focal(482x306:674x498)/cdn.vox-cdn.com/uploads/chorus_image/image/58075661/vr_chat.0.png" width= 400px; alt="Images de personnages sur VRChat" title="Différents personnages sur VRChat"><br/>
     <i>Un exemple de la diversité des personnages jouables.</i>
 </center>
 
 
 Le jeu est surtout très populaire auprès des **jeunes** utilisateurs (entre 15 et 30 ans). Cette notoriété grandissante attire des personnes de différents milieux. On peut voir des vidéastes mais aussi des personnes diffusant en direct leur partie de jeux vidéo. Ils voient en VRChat, un jeu populaire et amusant permettant de retenir l’attention du spectateur. 
 
-<center><iframe style="width: 70%" height="530" src="https://www.youtube.com/embed/ZlG2bN9A01o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="530" src="https://www.youtube.com/embed/ZlG2bN9A01o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Le succès est aussi dû à la **diversité** des profils des joueurs. On peut retrouver des personnes de nationalités différentes qui vont essayer de communiquer en apprenant ainsi de nouvelles langues. Le jeu permet ainsi à des personnes isolées socialement d'interagir plus aisément avec la société. Le fait de porter un casque de réalité virtuelle exempt des facteurs tels que le physique ou l’aisance à l’oral, d’intervenir dans les interactions sociales.
 
