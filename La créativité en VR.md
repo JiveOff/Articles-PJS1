@@ -7,7 +7,7 @@ L'immersion se fait avec un casque spécial et une manette ayant 6 degrés de li
 Le marché de la création artistique en réalité virtuelle ne cesse de s’agrandir et même chose pour les possibilités. Dans cet article, nous allons traiter de trois célèbres applications qui s'avèrent incontournables dans la création artistique en réalité virtuelle:
 
 <div style="text-align: center;">
-    <img src="https://i.jiveoff.fr/uxgot.png" style="width:15%; margin-right: 10%; vertical-align: middle;" />
+    <img src="https://i.jiveoff.fr/GAvph.png" style="width:15%; margin-right: 10%; vertical-align: middle;" />
     <img src="https://i.jiveoff.fr/wKpE8.tilt-brush-logo-02-ps4-23jan19-en-us" style="width:30%; margin-right: 10%; vertical-align: middle;" />
     <img src="https://i.jiveoff.fr/wqWkt.PJQMq1gnq-JWlC-cgTwnhyJJWap01FEKfm_x5O0Ab0zgd_UdgjO5rrpYx3CMUUV01NLZDTnoM22aB41nYoBkyjA7Do4RUBredR-2IaSm4nhVJ0tRrMRRhAmRJWyWXDwFiOnAXtk" style="width:15%; vertical-align: middle;" />
 </div>
@@ -19,7 +19,7 @@ Le marché de la création artistique en réalité virtuelle ne cesse de s’agr
 
 Présentons de ce pas la première application.
 
-# <img src="https://i.jiveoff.fr/uxgot.png" style="width:10%; margin-right: 20px; vertical-align: middle; float: right;" />Oculus Medium
+# <img src="https://i.jiveoff.fr/GAvph.png" style="width:10%; margin-right: 20px; vertical-align: middle; float: right;" />Oculus Medium
 
 **Medium** est une application **référence** dans le secteur de la création en réalité virtuelle. Celle-ci est développée par Oculus jusqu'au 6 décembre 2019 où elle a été rachetée par le géant américain de la création artistique, **Adobe**. Medium est sorti le 5 décembre 2016 et fêtera cette année ses **4 ans**. L'application est totalement gratuite et tous public.
 
