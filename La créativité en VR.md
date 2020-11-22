@@ -94,11 +94,11 @@ Il est possible de construire par exemple:
 
 
 <center>
-  <div style="display: inline-block;width: 49%; margin-bottom: 10px;"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86d613b9-bca5-4cd3-823d-46451b331f53/d4z4wwr-01268d0b-21ce-4c62-b27c-b3609d4c08f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvODZkNjEzYjktYmNhNS00Y2QzLTgyM2QtNDY0NTFiMzMxZjUzXC9kNHo0d3dyLTAxMjY4ZDBiLTIxY2UtNGM2Mi1iMjdjLWIzNjA5ZDRjMDhmMi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ClKfpS3YcE6AXg1IL4KrsPpytx4qeVT9bTGRY-b-5T0" style="width: 80%; margin-bottom: 10px;"><br><i>Exemple de Pixel Art</i></div>
+  <div style="display: inline-block;width: 49%; margin-bottom: 10px;"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86d613b9-bca5-4cd3-823d-46451b331f53/d4z4wwr-01268d0b-21ce-4c62-b27c-b3609d4c08f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvODZkNjEzYjktYmNhNS00Y2QzLTgyM2QtNDY0NTFiMzMxZjUzXC9kNHo0d3dyLTAxMjY4ZDBiLTIxY2UtNGM2Mi1iMjdjLWIzNjA5ZDRjMDhmMi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ClKfpS3YcE6AXg1IL4KrsPpytx4qeVT9bTGRY-b-5T0" style="width: 80%; margin-bottom: 10px;"><br /><i>Exemple de Pixel Art</i></div>
     <div style="display: inline-block;width: 49%; margin-bottom: 10px;">
-  <img src="https://i.ytimg.com/vi/7zkHyZ3bF80/maxresdefault.jpg" style="width: 80%; margin-bottom: 10px;"><br><i>Exemple de build organique</i></div>
+  <img src="https://i.ytimg.com/vi/7zkHyZ3bF80/maxresdefault.jpg" style="width: 80%; margin-bottom: 10px;"><br /><i>Exemple de build organique</i></div>
     <div style="display: inline-block;width: 49%;">
-  <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/134758318/original/6092a2588f4127ea47741ade1d12ba852f9bd6ea/build-a-minecraft-dirt-house-for-you.jpg" style="width: 80%; margin-bottom: 10px;"><br><i>Une maison en terre digne d'un débutant</i></div>
+  <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/134758318/original/6092a2588f4127ea47741ade1d12ba852f9bd6ea/build-a-minecraft-dirt-house-for-you.jpg" style="width: 80%; margin-bottom: 10px;"><br /><i>Une maison en terre digne d'un débutant</i></div>
 </center>
 
 
