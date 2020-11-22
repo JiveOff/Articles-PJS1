@@ -8,12 +8,12 @@ La première idée qui nous vient en tête, **le prix**. Évidemment, il existe 
 
 <center>
   <div style="display: inline-block;width: 49%;"><img src="https://imgur.com/yvR01yr.png" style="width: 70%;"><br>Oculus Rift S : 449€</div><div style="display: inline-block;width: 49%;">
-  <img src="https://i.imgur.com/9EY3koh.jpg" style="width: 60%;"><br>Oculus Rift S : 449€</div>
+  <img src="https://i.imgur.com/9EY3koh.jpg" style="width: 60%;"><br>Oculus Rift S : 879€</div>
 </center>
 
 
 
-Afin d’expliquer ces prix qui peuvent paraître exorbitant, on pourrait justifier le fait que la réalité Virtuelle soit une nouvelle technique et qu’il faut **rembourser** les investissements qu’elle représente. Cependant après 5 ans d’existence on constate que les prix des casques sont davantage **revus à la baisse** et avec le possible arrivé de la réalité augmenté cette tendance ne peut que **croitre**.
+Afin d’expliquer ces prix qui peuvent paraître exorbitant, on pourrait justifier le fait que la réalité Virtuelle soit une nouvelle technique et qu’il faut **rembourser** les investissements qu’elle représente. Cependant après 5 ans d’existence on constate que les prix des casques sont davantage **revus à la baisse** et avec le possible arrivée de la réalité augmenté cette tendance ne peut que **croitre**.
 
 ### Le matériel
 
