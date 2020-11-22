@@ -8,7 +8,7 @@ La première idée qui nous vient en tête, **le prix**. Évidemment, il existe 
 
 <center>
   <div style="display: inline-block;width: 49%;"><img src="https://imgur.com/yvR01yr.png" style="width: 70%;"><br>Oculus Rift S : 449€</div><div style="display: inline-block;width: 49%;">
-  <img src="https://i.imgur.com/9EY3koh.jpg" style="width: 60%;"><br>Oculus Rift S : 879€</div>
+  <img src="https://i.imgur.com/9EY3koh.jpg" style="width: 60%;"><br>HTC Vive Pro : 879€</div>
 </center>
 
 
