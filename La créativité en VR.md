@@ -80,7 +80,7 @@ Cette application contraste bien avec les deux autres présentées ci-dessus mai
 
 
 <center>
-    <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/eb/Minecraft_Creative.png/revision/latest/scale-to-width-down/390?cb=20200827212040" style="width: 35%; margin-bottom: 15px"><br/>
+    <img src="https://i.jiveoff.fr/tcBZh.390" style="width: 35%; margin-bottom: 15px"><br/>
     <i>Un vaste choix de blocs de construction.</i>
 </center>
 
