@@ -1,6 +1,6 @@
 **Le jeu vidéo est le meilleur moyen d'échapper à son quotidien** , seul ou bien à plusieurs. Du tout premier jeu “tennis for two”, jusqu'à aujourd'hui énormément d’innovation on était apporté à ce domaine.
 
-<center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/6PG2mdU_i8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/6PG2mdU_i8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > Développé en 1958, permet à deux personnes de se renvoyer un point
 > lumineux sur un oscilloscope.
@@ -57,7 +57,7 @@ Grand vainqueur, les jeux d'immersion font l'unanimité auprès des **joueurs VR
 
 **Star Wars: Squadrons** (Tous casques VR)
 
-<center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/OG5-rFEsLKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/OG5-rFEsLKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > Développé par EA Motive
 
@@ -73,7 +73,7 @@ Fan de Star Wars ? Star Wars: Squadrons est fait pour vous. Il vous permet au ch
 
 **Vader Immortal** (Oculus Quest)
 
-<center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/uPEss1KRccI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/uPEss1KRccI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > Développé par ILMxLAB
 >
@@ -85,7 +85,7 @@ Pour un public plus courageux, les jeux d’horreur,
 
 **Resident Evil 7: Biohazard** (Playstation VR)
 
-<center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/zTqaLp5U7MQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/zTqaLp5U7MQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > Développé par Capcom
 
@@ -100,7 +100,7 @@ La troisième et dernière catégorie de jeux d’aventure faisant l'unanimité.
 
 **Skyrim VR** (Oculus Rift, HTC Vive, PlayStation VR)
 
-<center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/fg_vqd8zAhw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/fg_vqd8zAhw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > Développé par Bethesda Game Studio
 
@@ -126,13 +126,13 @@ Comme pour les jeux d'immersion, il existe énormément de FPS en VR. Mais les d
 
 Ainsi que **Stand Out**, d'un genre plus récent. Ce jeu est un battle royale, le but ? Un groupe de joueurs est parachuté dans une zone qui rétrécit au fur et à mesure. Il faut tout simplement survivre et être le dernier en vie dans ce champ de bataille. Ce genre est très populaire sur consoles et PC notamment avec des jeux comme Fortnite, H1Z1, APEX, ...
 
-<center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/IxjRuhx3l7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/IxjRuhx3l7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > Pavlov VR gameplay
 
   
 
-<center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/gugwmZClGM4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/gugwmZClGM4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > Stand Out VR gameplay
 
@@ -144,7 +144,7 @@ Un peu futuriste, mais réel il est aussi possible de se déplacer librement en 
 
 Quelques entreprises comme **Omni** proposent dans certaines villes de petites arènes où peuvent s'affronter plusieurs personnes et tester cette technologie.
 
-<center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/xhzKs7NnDb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/xhzKs7NnDb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > Omni Arena
 
@@ -156,13 +156,13 @@ Si vous et la VR faites plus qu’un, plus particulièrement dans les jeux FPS s
 
 L’un des seul jeu connu est **Onward** un FPS lui aussi inspiré de CS go. Qui cherche à retransmettre au mieux un champ de bataille où s'affronte des équipes de plusieurs joueurs.
 
-<center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/KT27JOz1OiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/KT27JOz1OiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > Développé par Downpour
 
 L'e-sport VR a énormément d'**avenir**. Dans un futur surement proche comme pour tous sport nous verrons apparaître différentes **ligues**, **jeux**, **équipes** voir même des **écoles** dédiées à former des futurs joueurs e-sport VR.
 
-<center><iframe style="width: 70%" height="300" src="https://www.youtube.com/embed/VdW_kbImnCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/VdW_kbImnCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 > Trailer Competition Onward
 
