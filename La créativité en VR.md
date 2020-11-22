@@ -27,9 +27,10 @@ Cette application permet aux utilisateurs de sculpter en utilisant leurs « *mai
 Il est alors possible de laisser place à sa propre imagination pour ainsi concevoir de très belles pièces.
 
 <div style="text-align: center; margin-bottom: 35px;">
-    <img src="https://i.jiveoff.fr/7h36I.jpg" style="width:50%; margin-bottom: 25px;"><br />
+    <img src="https://i.jiveoff.fr/7h36I.jpg" style="width:50%; margin-bottom: 15px;"><br />
     <i>Des sculptures réalisées par la communauté.</i>
 </div><br />
+
 
 Il est également possible de modéliser des sculptures assez complexes d'un personnage issu de l'animation japonaise à un paysage extrêmement détaillé.
 
@@ -55,7 +56,7 @@ Après la sculpture, passons au dessin avec **Google Tilt Brush**.
 Comme Medium, vous vous retrouvez dans un monde virtuel où vous pouvez dessiner en **3D**. Votre manette droite vous servira à dessiner et la gauche, à manipuler votre palette, comme un vrai artiste.
 
 <div style="text-align: center;">
-    <img src="https://3dscanexpert.com/wp-content/uploads/3d-scan-expert-poly-tiltbrush-tutorial-header-1024x593.jpg" style="width: 75%; margin-bottom: 30px"><br/>
+    <img src="https://3dscanexpert.com/wp-content/uploads/3d-scan-expert-poly-tiltbrush-tutorial-header-1024x593.jpg" style="width: 75%; margin-bottom: 15px"><br/>
     <i>Outils disponibles sur Tilt Brush.</i>
 </div><br />
 
@@ -78,7 +79,7 @@ Cette application contraste bien avec les deux autres présentées ci-dessus mai
 
 
 <center>
-    <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/eb/Minecraft_Creative.png/revision/latest/scale-to-width-down/390?cb=20200827212040" style="width: 35%; margin-bottom: 30px"><br/>
+    <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/eb/Minecraft_Creative.png/revision/latest/scale-to-width-down/390?cb=20200827212040" style="width: 35%; margin-bottom: 15px"><br/>
     <i>Un vaste choix de blocs de construction.</i>
 </center>
 
@@ -107,7 +108,7 @@ Le jeu a connu beaucoup de changements depuis sa sortie de 2009 et propose aujou
 La première version de ce mode de jeu avait été crée par la communauté sous forme d'un *mod* appelé **ViveCraft**. Cette modification permet aux joueurs de pouvoir interagir avec le monde avec ses manettes, du mouvement à la préparation de nourriture. Il est possible d'également rejoindre ses amis sur des serveurs comme [Hypixel](https://hypixel.net) et jouer ensemble en réalité virtuelle.
 
 <center>
-    <img src="https://i0.wp.com/www.vivecraft.org/wp-content/uploads/2016/12/ezgif.com-839689d05b.gif?w=840" style="width: 55%; margin-bottom: 30px"><br />
+    <img src="https://i0.wp.com/www.vivecraft.org/wp-content/uploads/2016/12/ezgif.com-839689d05b.gif?w=840" style="width: 55%; margin-bottom: 15px"><br />
     <i>Démonstration de ViveCraft</i>
 </center>
 
@@ -115,7 +116,7 @@ La première version de ce mode de jeu avait été crée par la communauté sous
 
 Il est d'ailleurs possible de *terminer* le jeu en réalité virtuelle comme le témoigne la vidéo ci-dessous:
 
-<center></center><iframe width="560" height="390" src="https://www.youtube.com/embed/5TI96_nqhng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe style="width: 100%" height="390" src="https://www.youtube.com/embed/5TI96_nqhng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 
