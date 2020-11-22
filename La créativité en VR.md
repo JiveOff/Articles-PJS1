@@ -14,7 +14,7 @@ Le marché de la création artistique en réalité virtuelle ne cesse de s’agr
 
 <div style="text-align: center;">
     <i>Il est possible que vous reconnaissiez un de ces logos! On parle bien ici du célèbre jeu, Minecraft.</i>
-</div>
+</div><br />
 
 
 Présentons de ce pas la première application.
