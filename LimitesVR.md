@@ -50,7 +50,7 @@ Lorsque vous avez rempli les conditions précédentes pour enfin pouvoir utilise
 
 
 
-### L’isolation et l’oublie de soi même : <img src="https://i.imgur.com/ydMoZpk.png" style="width:20%; margin-bottom: 25px; float: right; display: inline-block; margin: 40px">   
+### L’isolation et l’oubli de soi même : <img src="https://i.imgur.com/ydMoZpk.png" style="width:20%; margin-bottom: 25px; float: right; display: inline-block; margin: 40px">   
 
 **S’échapper** de son quotidien avec la réalité virtuelle représente un risque potentiel pour votre santé, celui de **s’isoler du reste du monde** par une utilisation prolongé de la VR. Il se peut que vous vous sentiez bien dans votre **monde fantaisiste** jusqu’à en devenir accroc et a en arriver à le considérer comme **votre réalité**. Il faut cependant garder à l’esprit que ce que vous expérimentez reste totalement **fictif** et n’a que pour but de vous divertir.
 
