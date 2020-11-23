@@ -64,7 +64,7 @@ Plus communément appelés «**Cybersickness**», environ **45% des utilisateurs
 <br />
 ### L'indice de confort
 
-Afin de prévenir d'éventuel soucis que peuvent rencontrer les **utilisateurs**. Certains logiciels sont évalué selon un **"indice de confort"**. Cet indicateur possède **trois** niveaux d'intensité permettant d'**avertir** l'utilisateur de l'expérience qui lui sera proposé :**Confortable, Modéré, Intense**. L'indice "Sans Note" indique une expérience variable qui ne peut être évalué.
+Afin de prévenir d'éventuels soucis que peuvent rencontrer les **utilisateurs**. Certains logiciels sont évalué selon un **"indice de confort"**. Cet indicateur possède **trois** niveaux d'intensité permettant d'**avertir** l'utilisateur de l'expérience qui lui sera proposé : **Confortable, Modéré, Intense**. L'indice "Sans Note" indique une expérience variable qui ne peut être évalués.
 
 <center> <img src="https://i.imgur.com/hf25dW1.png" style="width: 60%">     <br />    <i></i>  </center>
 
