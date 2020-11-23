@@ -62,6 +62,13 @@ La réalité n’échappe pas aux désagréments que sont les **nausées ou les 
 Plus communément appelés «**Cybersickness**», environ **45% des utilisateurs de la VR** affirment avoir vécu ces malaises. N’espérez pas pouvoir tromper votre cerveau et ses 5 sens en toutes **impunités**. Le décalage provoqué par ce que vous voyez et ce que vous ressentez porte a **confusion** pour votre cerveau et explique pourquoi des malaises peuvent survenir.
 
 <br />
+### L'indice de confort
+
+Afin de prévenir d'éventuel soucis que peuvent rencontrer les **utilisateurs**. Certains logiciels sont évalué selon un **"indice de confort"**. Cet indicateur possède **trois** niveaux d'intensité permettant d'**avertir** l'utilisateur de l'expérience qui lui sera proposé :**Confortable, Modéré, Intense**. L'indice "Sans Note" indique une expérience variable qui ne peut être évalué.
+
+<center> <img src="https://i.imgur.com/hf25dW1.png" style="width: 60%">     <br />    <i></i>  </center>
+
+<center>     <img src="https://i.imgur.com/yxsTICz.png"  style="width: 25%"><img src="https://i.imgur.com/78JvB0n.png" style="width: 25%"> <br />    <i>Indice que confort pour les jeux Beats Saber et BoneWorks</i>  </center>
 
 
 ## La juridiction et la législation sur la Réalité Augmenté
