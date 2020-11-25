@@ -10,7 +10,7 @@ Dites-vous que la solution était en face de nous. Dans le **cinéma**, afin de 
 
   
 
-Si vous voulez plus d’informations, sur **quel principe repose ces technologies**. Je vous invite à regarder l'article sur la culture de la VR.
+Si vous voulez plus d’informations, sur **quel principe repose ces technologies**. Je vous invite à regarder l'article sur [la culture de la VR](https://pjs1-dev.jiveoff.fr/article/3).
 
 
 
@@ -18,7 +18,7 @@ Si vous voulez plus d’informations, sur **quel principe repose ces technologie
 
 
 
-<iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/Z7ZhA6hctuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe style="width: 65%" height="450" src="https://www.youtube.com/embed/Z7ZhA6hctuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 
 
@@ -49,7 +49,7 @@ Bien que la VR ne propose pas d’être physiquement sur une plage ou au sommet 
 
 
 
-<iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/SCrkZOx5Q1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe style="width: 65%" height="450" src="https://www.youtube.com/embed/SCrkZOx5Q1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
   
 
@@ -65,7 +65,7 @@ Vous avez une ville ou bien un pays que vous aimeriez vraiment visiter en vrai. 
 
   
 
-<iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/AFKSHrQQ0ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe style="width: 65%" height="450" src="https://www.youtube.com/embed/AFKSHrQQ0ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
   
 
@@ -82,7 +82,7 @@ Comme le titre l'indique, il existe d'innombrables expériences à vivre en VR. 
 
   
 
-<iframe style="width: 100%" height="350" src="https://www.youtube.com/embed/hNAbQYU0wpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />  
+<iframe style="width: 65%" height="450" src="https://www.youtube.com/embed/hNAbQYU0wpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />  
 
 La VR prend tellement d'**ampleur**, à tel point que certaines entreprises se sont spécialisées dans la **création d'expérience en réalité virtuelle**. Que ce soit pour les professionnels ou le grand public. C'est le cas par exemple d'une jeune entreprise française **UniV Studio**. Qui propose notamment des formations en tout genre en réalité virtuelle pour les professionnels dans énormément de domaines. Elle propose aussi d'organiser différents événements, dont le but est de transmettre aux mieux les demandes de leurs clients en VR. En quelques années, cette entreprise a pu opérer dans de grands groupes voir même certaines régions de France.
 
