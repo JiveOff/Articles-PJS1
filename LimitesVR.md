@@ -1,4 +1,4 @@
-La réalité virtuelle s’est déjà imposé depuis ces 5 dernières années au sein du grand public et s’impose également comme le **leader** dans la simulation virtuelle (la réalité augmentée se développe encore et ne devrait pas tarder à prendre la relève). Cependant, bien qu’implanté dans le monde, la réalité virtuelle a encore bien des **défis** dont elle doit faire face. Ces défis se manifestent ainsi comme des **barrières** qui brident cette technique et son développement. Nous verrons donc comment la VR s'applique en **pratique**, sont potentiel **danger pour la santé** et enfin sa **législation** en France.
+La réalité virtuelle s’est déjà imposée depuis ces 5 dernières années au sein du grand public et s’impose également comme le **leader** dans la simulation virtuelle (la réalité augmentée se développe encore et ne devrait pas tarder à prendre la relève). Cependant, bien qu’implanté dans le monde, la réalité virtuelle a encore bien des **défis** auxquels elle doit faire face. Ces défis se manifestent ainsi comme des **barrières** qui brident cette technique et son développement. Nous verrons donc comment la VR s'applique en **pratique**, sont potentiel **danger pour la santé** et enfin sa **législation** en France.
 
 ## La réalité virtuelle en pratique
 
@@ -88,11 +88,11 @@ Or, l’utilisation du casque présente des **risques** pour les enfants dont la
 ### Propriété intellectuelle<img src="https://i.imgur.com/ZvsSC8i.png" style="width:15%; margin-bottom: 25px; float: right; display: inline-block; margin: 40px">
 
 
-Vu dans la partie sur **la créativité dans la VR**, il n’existe aucun encadrement concernant le **droit de la propriété intellectuelle pour les artistes**. La réalité virtuelle représente un **nouveau** mode d’exploitation des œuvres et la question se pose toujours quant à la **rémunération** de ces auteurs.
+Vu dans la partie sur **[la créativité dans la VR](https://pjs1-dev.jiveoff.fr/article/1)**, il n’existe aucun encadrement concernant le **droit de la propriété intellectuelle pour les artistes**. La réalité virtuelle représente un **nouveau** mode d’exploitation des œuvres et la question se pose toujours quant à la **rémunération** de ces auteurs.
 
 ### L'application du droit à la réalité virtuelle
 
-Nous avons vu dans la partie : **la culture et la VR**, visiter un musée, jouer dans un univers parallèle, voyager, découvrir un appartement, est rendu **possible**. Il faut se demander comment pourrait-on encadrer cette technologie ? Comme nous l'avons mentionné précédemment, aucun texte en droit français n'encadre de manière **spécifique** la réalité virtuelle.
+Nous avons vu dans la partie : **[la VR et la culture](https://pjs1-dev.jiveoff.fr/article/5)**, visiter un musée, jouer dans un univers parallèle, voyager, découvrir un appartement, est rendu **possible**. Il faut se demander comment pourrait-on encadrer cette technologie ? Comme nous l'avons mentionné précédemment, aucun texte en droit français n'encadre de manière **spécifique** la réalité virtuelle.
 
 ### Droit des utilisateurs
 
@@ -100,7 +100,7 @@ L’utilisation de la réalité virtuelle donne accès à  un **nombre important
 
 ### Les atteintes aux biens et aux personnes
 
-Enfin le **droit à l’image** peut être évoqué, si l’on se réfère à la partie **la partie de thomas**. Il est possible de se déplacer dans des lieux **publics comme privés** et avec l’émergence de cette technologie au sein de plateformes vidéo comme **Youtube** ou **Twitch** il est donc envisageable de prendre les dispositions **nécessaires** pour protéger le droit à l’image des **personnes filmées**.
+Enfin le **droit à l’image** peut être évoqué, si l’on se réfère à **[La sociabilité en VR](https://pjs1-dev.jiveoff.fr/article/2)**. Il est possible de se déplacer dans des lieux **publics comme privés** et avec l’émergence de cette technologie au sein de plateformes vidéo comme **Youtube** ou **Twitch** il est donc envisageable de prendre les dispositions **nécessaires** pour protéger le droit à l’image des **personnes filmées**.
 
 ## Conclusion
 
