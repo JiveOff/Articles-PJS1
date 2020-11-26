@@ -68,7 +68,7 @@ Afin de prévenir d'éventuels soucis que peuvent rencontrer les **utilisateurs*
 
 <center> <img src="https://i.imgur.com/hf25dW1.png" style="width: 60%">     <br />    <i></i>  </center>
 
-<center>     <img src="https://i.imgur.com/yxsTICz.png"  style="width: 25%"><img src="https://i.imgur.com/78JvB0n.png" style="width: 25%"> <br />    <i>Indice que confort pour les jeux Beats Saber et BoneWorks</i>  </center>
+<center>     <img src="https://i.imgur.com/yxsTICz.png"  style="width: 25%"><img src="https://i.imgur.com/78JvB0n.png" style="width: 25%"> <br />    <i>Indice que confort pour les jeux Beat Saber et BoneWorks</i>  </center>
 
 
 ## La juridiction et la législation sur la Réalité Augmenté
