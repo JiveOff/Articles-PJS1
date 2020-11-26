@@ -36,7 +36,7 @@ En 1838 nait l’ancêtre de la VR, le **stéréoscope** : un dispositif permett
 
 
 
-En 1950, Le **Sensorama** une borne créé par **Morton Heilig**, un cinématographe pionnier de la **réalité virtuelle**, composé d’un écran stéréoscopique, de haut-parleurs, des ventilateurs avec des générateurs d’odeurs ainsi que d’une chaise vibrante pour vous retranscrire le plus de sensations possibles.
+En 1950, Le **Sensorama** est une borne créée par **Morton Heilig**, un cinématographe pionnier de la **réalité virtuelle**. Composé d’un écran stéréoscopique, de haut-parleurs, des ventilateurs avec des générateurs d’odeurs ainsi que d’une chaise vibrante pour vous retranscrire le plus de sensations possibles.
 
 <center><img src="https://s.aolcdn.com/hss/storage/adam/a06ee55ce5a6ed1a74fdb8632b1d8ee7/sensorama-main-bw.jpg" style="width: 40%"></center>
 
@@ -68,12 +68,12 @@ Suite aux multiples échecs pour démocratiser la machine, le marché perd confi
 
 ### La technologie de nos jours
 
-Malgré la perte de confiance en la technologie, de nombreuses œuvres continuent à alimenter ce fantasme d’immersion totale. En voici quelques-uns des plus connus.
+Malgré la perte de confiance en la technologie, de nombreuses œuvres continuent à alimenter ce fantasme d’immersion totale. En voici quelques-unes, parmi les plus connues.
 
 <center><img src="https://tse4.mm.bing.net/th?id=OIP.59yq5c9RQ22N0oF2F1mO3gHaKE&pid=Api" style="width: 20%;"></center>
 
 >*Matrix*, 1999 par les **Wachowski** : 
->L’univers nous plonge dans un **univers dystopique** où les humains servent d’alimentations pour des robots intelligents et sont plongés dans une réalité virtuelle pour les garder en place, « *La matrice* ». **Néo**, un programmeur informatique découvre l’existence de *la matrice* décide de se battre contre les **robots**.
+>L’univers nous plonge dans un **univers dystopique** où les humains servent d’alimentations pour des robots intelligents et sont plongés dans une réalité virtuelle pour les garder en place, « *La matrice* ». **Néo**, un programmeur informatique découvre l’existence de *la matrice* et décide de se battre contre les **robots**.
 
 
 
@@ -117,7 +117,7 @@ En 2016, sort simultanément l'**Oculus Rift**, l'**HTC Vive** et la **Playstati
 
 
 
-Il existe cependant des casques vraiment moins chers qui fonctionnent avec des **smartphones** mais qui ne prend en charge que la **vidéo en 360°**.
+Il existe cependant des casques vraiment moins chers qui fonctionnent avec des **smartphones** mais qui ne prennent en charge que la **vidéo en 360°**.
 
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Google-Cardboard.jpg/1920px-Google-Cardboard.jpg" style="width: 40%"></center>
 
