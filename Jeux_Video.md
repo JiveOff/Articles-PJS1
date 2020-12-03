@@ -160,7 +160,7 @@ L’un des seul jeu connu est **Onward** un FPS lui aussi inspiré de CS go, qui
 
 > Développé par Downpour
 
-L'e-sport VR a énormément d'**avenir**. Dans un futur surement proche, comme pour tous sport nous verrons apparaître différentes **ligues**, **jeux**, **équipes** et même **écoles** dédiées à former des joueurs e-sport VR.
+L'e-sport VR a énormément d'**avenir**. Dans un futur surement proche, comme pour tous les sports nous verrons apparaître différentes **ligues**, **jeux**, **équipes** et même **écoles** dédiées à former des joueurs e-sport VR.
 
 <center><iframe style="width: 65%" height="450" src="https://www.youtube.com/embed/VdW_kbImnCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
