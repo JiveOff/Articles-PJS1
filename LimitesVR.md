@@ -1,4 +1,4 @@
-La réalité virtuelle s’est déjà imposée depuis ces 5 dernières années au sein du grand public et s’impose également comme le **leader** dans la simulation virtuelle (la réalité augmentée se développe encore et ne devrait pas tarder à prendre la relève). Cependant, bien qu’implanté dans le monde, la réalité virtuelle a encore bien des **défis** auxquels elle doit faire face. Ces défis se manifestent ainsi comme des **barrières** qui brident cette technique et son développement. Nous verrons donc comment la VR s'applique en **pratique**, sont potentiel **danger pour la santé** et enfin sa **législation** en France.
+La réalité virtuelle s’est déjà imposée depuis ces 5 dernières années au sein du grand public et s’impose également comme le **leader** dans la simulation virtuelle (la réalité augmentée se développe encore et ne devrait pas tarder à prendre la relève). Cependant, bien qu’implantée dans le monde, la réalité virtuelle a encore bien des **défis** auxquels elle doit faire face. Ces défis se manifestent ainsi comme des **barrières** qui brident cette technique et son développement. Nous verrons donc comment la VR s'applique en **pratique**, son potentiel **danger pour la santé** et enfin sa **législation** en France.
 
 ## La réalité virtuelle en pratique
 
@@ -17,9 +17,9 @@ Afin d’expliquer ces prix qui peuvent paraître exorbitant, on pourrait justif
 
 ### Le matériel
 
-Nous avons vu plutôt que l’achat d’un casque de Réalité Virtuelles peut représenter un achat conséquent, mais cela ne s’arrête pas là, les logiciels actifs de cette technologie demandent beaucoup de ressource. Un jeu en réalité virtuel peut atteindre une **résolution de 3024 x 1680 pixels** avec une fréquence atteignant les **90 images par seconde**, à titre de comparaison un jeu classique tourne avec une **résolution de 1920 x 1080 pixels et 60 images par seconde**. 
+Nous avons vu plutôt que l’achat d’un casque de réalité virtuelle peut représenter un achat conséquent, mais cela ne s’arrête pas là, les logiciels actifs de cette technologie demandent beaucoup de ressources. Un jeu en réalité virtuelle peut atteindre une **résolution de 3024 x 1680 pixels** avec une fréquence atteignant les **90 images par seconde**, à titre de comparaison un jeu classique tourne avec une **résolution de 1920 x 1080 pixels et 60 images par seconde**. 
 
-Pour satisfaire ces besoins en ressources, une seule solution : **Avoir une machine puissante**. Le moyen le plus rependu pour faire tourner et utiliser son casque VR est l’utilisation d'un ordinateur, il est bien sûr possible d’utiliser sa console comme la Ps4 de chez Sony et sa Playstation VR. Comptez un budget dans une fourchette de prix entre 700e et 1500e pour avoir un ordinateur compatible avec la VR, ces prix varient souvent avec la sortie de nouveau produit du coté de la réalité virtuelle comme pour le hardware chez les ordinateurs.
+Pour satisfaire ces besoins en ressources, une seule solution : **Avoir une machine puissante**. Le moyen le plus répandu pour faire tourner et utiliser son casque VR est l’utilisation d'un ordinateur, il est bien sûr possible d’utiliser sa console comme la Ps4 de chez Sony et sa Playstation VR. Comptez un budget dans une fourchette de prix entre 700e et 1500e pour avoir un ordinateur compatible avec la VR, ces prix varient souvent avec la sortie de nouveaux produits du coté de la réalité virtuelle comme pour le hardware chez les ordinateurs.
 
 <center> <img src="https://i.imgur.com/NtsnzmN.png" style="width: 25%; margin: 10px; vertical-align: middle;">    <img src="https://i.imgur.com/KuENyxq.png"  style="width: 15%; margin: 10px; vertical-align: middle;"><img src="https://i.imgur.com/UOho1lj.png" style="width: 25%; margin: 10px; vertical-align: middle;"> <br />    <i>Label de marque spécialisé dans le Hardware informatique précisant que le produit convient à l'utilisation de la VR</i>  </center>
 
@@ -40,7 +40,7 @@ Le casque VR HTC Vive se présente comme le moins **gourmand** en terme de resso
 
 ### Encombrant
 
-Lorsque vous avez rempli les conditions précédentes pour enfin pouvoir utiliser votre casque Vr, il vous faudra, pour jouer en toute **sécurité**, un espace dégagé, sans obstacle. L’espace de jeu minimal **recommandé** pour une expérience de jeu optimal est de **2m x 1,5 m, soit 3 m²**. Mais ce n’est pas fini, les nombreux câbles vous attachant vous et le casque avec votre machine rendent difficiles les **mouvements**, sans oublier que le casque représente également un **poids** conséquent. Enfin, l’esthétique de votre casque. On ne va pas se cacher porter ces casques peuvent d’un certain point de vue **vous rendre ridicule**, de plus vous ne pourrez pas vous démarquer des autres : tous les casques se ressemblent. À voir dans le futur si les producteurs fourniront des modèles plus **modernes et élégants**.
+Lorsque vous avez rempli les conditions précédentes pour enfin pouvoir utiliser votre casque Vr, il vous faudra, pour jouer en toute **sécurité**, un espace dégagé, sans obstacle. L’espace de jeu minimal **recommandé** pour une expérience de jeu optimal est de **2m x 1,5 m, soit 3 m²**. Mais ce n’est pas fini, les nombreux câbles vous attachant vous et le casque avec votre machine rendent difficiles les **mouvements**, sans oublier que le casque représente également un **poids** conséquent. Enfin, l’esthétique de votre casque. On ne va pas se cacher porter ces casques peuvent d’un certain point de vue **vous rendre ridicule**. De plus, vous ne pourrez pas vous démarquer des autres : tous les casques se ressemblent. À voir dans le futur si les producteurs fourniront des modèles plus **modernes et élégants**.
 
 <iframe style="width: 100%; margin-bottom: 50px;" height="530" src="https://www.youtube.com/embed/t82ag5wxF5A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -52,7 +52,7 @@ Lorsque vous avez rempli les conditions précédentes pour enfin pouvoir utilise
 
 ### L’isolation et l’oubli de soi même : <img src="https://i.imgur.com/ydMoZpk.png" style="width:20%; margin-bottom: 25px; float: right; display: inline-block; margin: 40px">   
 
-**S’échapper** de son quotidien avec la réalité virtuelle représente un risque potentiel pour votre santé, celui de **s’isoler du reste du monde** par une utilisation prolongé de la VR. Il se peut que vous vous sentiez bien dans votre **monde fantaisiste** jusqu’à en devenir accroc et a en arriver à le considérer comme **votre réalité**. Il faut cependant garder à l’esprit que ce que vous expérimentez reste totalement **fictif** et n’a que pour but de vous divertir.
+**S’échapper** de son quotidien avec la réalité virtuelle représente un risque potentiel pour votre santé, celui de **s’isoler du reste du monde** par une utilisation prolongée de la VR. Il se peut que vous vous sentiez bien dans votre **monde fantaisiste** jusqu’à en devenir accroc et a en arriver à le considérer comme **votre réalité**. Il faut cependant garder à l’esprit que ce que vous expérimentez reste totalement **fictif** et n’a que pour but de vous divertir.
 
 
 
@@ -71,7 +71,7 @@ Afin de prévenir d'éventuels soucis que peuvent rencontrer les **utilisateurs*
 <center>     <img src="https://i.imgur.com/yxsTICz.png"  style="width: 25%"><img src="https://i.imgur.com/78JvB0n.png" style="width: 25%"> <br />    <i>Indice que confort pour les jeux Beat Saber et BoneWorks</i>  </center>
 
 
-## La juridiction et la législation sur la Réalité Augmenté
+## La juridiction et la législation sur la Réalité Virtuelle
 
 <center><img src="https://i.imgur.com/55RpflH.png" style="width:20%; margin-bottom: 25px; float: left; display: inline-block; margin: 40px"></center>
 
