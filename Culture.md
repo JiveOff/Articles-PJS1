@@ -4,8 +4,7 @@ La VR est donc principalement utilisée pour la vidéo 360°. Mais a quoi sert-e
 
 L'utilisation la plus simple à laquelle on puisse y penser est de recréer des espaces existants de la vie réelle pour avoir un aperçu de l'endroit sans à avoir à s'y rendre (**[notre article sur les voyages et expériences](https://pjs1-dev.jiveoff.fr/article/7)**). Toujours dans l'optique de plus d'immersion, la vidéo 360° peu révolutionner nombreux domaines. Le domaine le plus évident est celui de la cinématographie où le spectateur ne serait plus passif mais actif. Beaucoup de personnes l'utilisent pour montrer leurs maisons et rend la visite beaucoup plus libre qu'avec une vidéo normale. On pourrait imaginer des visites département ou de maison en VR qui pourrait fortement faciliter le travail dans l'immobilier.  
 
-l'apparition de la VR a aussi permis aux esprits les plus créatifs de s'exprimer
-exposition spectacles
+L'apparition de la VR a aussi permis aux esprits les plus créatifs de s'exprimer:
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/332975034" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
