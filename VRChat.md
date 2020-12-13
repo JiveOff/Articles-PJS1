@@ -9,7 +9,7 @@ On peut penser que le fait de porter un casque de **réalité virtuelle** nous c
 
 # Succès
 
-Tout d’abord, cette notoriété peut être expliquée par les possibilités de **personnalisation** offertes aux joueurs. Non seulement ils peuvent choisir n’importe quel personnage mais aussi créer un monde virtuel comme bon leur semble. La plupart des joueurs choisissent comme apparence des personnages de films, bandes dessinées, jeux vidéo. Ce monde virtuel peut très vite ressembler à un bazar mélangeant tous les personnages de licences différentes et d’univers différents.
+Tout d’abord, cette notoriété peut être expliquée par les possibilités de **personnalisation** offertes aux joueurs. Non seulement ils peuvent choisir n’importe quel personnage mais aussi créer un monde virtuel comme bon leur semble. La plupart des joueurs choisissent comme apparence des personnages de films, bandes dessinées, jeux vidéos. Ce monde virtuel peut très vite ressembler à un bazar mélangeant tous les personnages de licences différentes et d’univers différents.
 
 
 <center>
@@ -18,7 +18,7 @@ Tout d’abord, cette notoriété peut être expliquée par les possibilités de
 </center>
 
 
-Le jeu est surtout très populaire auprès des **jeunes** utilisateurs (entre 15 et 30 ans). Cette notoriété grandissante attire des personnes de différents milieux. On peut voir des vidéastes mais aussi des personnes diffusant en direct leur partie de jeux vidéo. Ils voient en VRChat un jeu populaire et amusant permettant de retenir l’attention du spectateur. 
+Le jeu est surtout très populaire auprès des **jeunes** utilisateurs (entre 15 et 30 ans). Cette notoriété grandissante attire des personnes de différents milieux. On peut voir des vidéastes mais aussi des personnes diffusant en direct leur partie de jeux vidéos. Ils voient en VRChat un jeu populaire et amusant permettant de retenir l’attention du spectateur. 
 
 <center><iframe style="width: 100%" height="530" src="https://www.youtube.com/embed/ZlG2bN9A01o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -34,7 +34,7 @@ Néanmoins, depuis 2018, le jeu a connu une certaine décroissance jusqu’à la
 
   
 
-Le jeu a aussi rencontré un franc succès auprès de la presse en faisant les titres en 2018 et lors du premier confinement. Les chiffres de 2020 sont encore plus impressionnants que ceux d’il y a deux ans, notamment grâce à la montée en puissance et au développement des casque de réalité virtuelle.
+Le jeu a aussi rencontré un franc succès auprès de la presse en faisant les titres en 2018 et lors du premier confinement. Les chiffres de 2020 sont encore plus impressionnants que ceux d’il y a deux ans, notamment grâce à la montée en puissance et au développement des casques de réalité virtuelle.
 
 
 <center>
